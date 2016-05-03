@@ -1,0 +1,71 @@
+#header4-9 H1 {
+  color: #000000;
+  text-align: left;
+  font-size: 84px;
+}
+#header4-9 P {
+  color: #000000;
+  text-align: right;
+}
+#features1-10 P {
+  color: #000000;
+  font-size: 21px;
+}
+#features1-8 P {
+  color: #000000;
+  font-size: 23px;
+  text-align: left;
+}
+#features1-9 P {
+  color: #000000;
+  font-size: 22px;
+}
+#msg-box5-9 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article P {
+  color: #000000;
+  font-size: 21px;
+}
+#msg-box5-8 .mbr-header__text {
+  color: #000000;
+}
+#msg-box5-8 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-8 .mbr-article {
+  color: #000000;
+  text-align: left;
+  font-size: 21px;
+}
+#msg-box5-8 .mbr-article P {
+  color: #000000;
+}
+#msg-box5-8 .mbr-article B {
+  font-size: 21px;
+  color: #000000;
+}
+#content5-8 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8 .mbr-article {
+  color: #fff;
+}
+#content5-8 .mbr-article P {
+  color: #000000;
+  text-align: center;
+}
+#footer1-8 P {
+  color: #000000;
+}
